@@ -1,6 +1,6 @@
 *升级到air27/air28后,由于使用的是ios11,打包时图标需要增加一个Assets.car文件,这里记录一下过程:
 
-1,打开链接 [http://www.applicationloader.net/appuploader/icontool.php]**
+1,打开链接 http://www.applicationloader.net/appuploader/icontool.php
 
 
 2,上传一个1024x1024的图标,然后会自动下载一个压缩包*
