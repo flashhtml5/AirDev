@@ -1,7 +1,7 @@
 
 新版Air开发的app要加载非https网络资源,需要在-app.xml里增加以下几行才能上架
-[code]
- <iPhone>
+
+	 <iPhone>
      <Entitlements> 
       <![CDATA[ 
          <key>aps-environment</key> 
@@ -40,7 +40,7 @@
 			</dict>
 		]]></InfoAdditions>
         <requestedDisplayResolution>high</requestedDisplayResolution>
-    </iPhone>
-    [/code]
+   	 </iPhone>
+    
     
     以上并不是每一条都要用上,仅供参考,具体意思查询adobe网站吧,简单来说全部复制过去用是没问题的
