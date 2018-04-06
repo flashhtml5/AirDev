@@ -7,9 +7,9 @@
          <key>aps-environment</key> 
          <string>production</string> 
       ]]> 
-   </Entitlements> 
+</Entitlements> 
    
-        <InfoAdditions><![CDATA[
+<InfoAdditions><![CDATA[
 			<key>UIDeviceFamily</key>
 			<array>
 				<string>1</string>
