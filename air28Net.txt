@@ -1,14 +1,13 @@
 
 新版Air开发的app要加载非https网络资源,需要在-app.xml里增加以下几行才能上架
 
-	 <iPhone>
+<iPhone>
      <Entitlements> 
       <![CDATA[ 
          <key>aps-environment</key> 
          <string>production</string> 
       ]]> 
-</Entitlements> 
-   
+</Entitlements>    
 <InfoAdditions><![CDATA[
 			<key>UIDeviceFamily</key>
 			<array>
