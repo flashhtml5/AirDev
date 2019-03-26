@@ -1,0 +1,2 @@
+如果上传时提示  invalida archtichies(乱拼的),请修改ane里的 iphone-arm 里的 package.xml, 将 ios_min_ver 改成9.0
+
