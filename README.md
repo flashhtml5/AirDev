@@ -4,3 +4,9 @@
 
 #
 2,加载非https资源的处理:https://github.com/flashhtml5/AirDev/blob/master/air28Net.txt
+
+#
+3,上传不了  见文件列表
+
+#
+4,上传后报错 invalidta ..  见文件列表
